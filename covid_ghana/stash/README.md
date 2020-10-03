@@ -1,0 +1,1 @@
+This is the location into which the ghana_covid_example will copy an Eradication executable.
