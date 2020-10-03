@@ -66,7 +66,7 @@ def general_sim( erad_path ):
     task.common_assets.add_asset(param_asset)
 
 # Add more asset from a directory
-    assets_dir = 'Assets'
+    assets_dir = 'measles_kurt/Assets'
     task.common_assets.add_directory(assets_directory=assets_dir)
     #task.is_linux = True
 # set campaign to None to not sending any campaign to comps since we are going to override it later with
